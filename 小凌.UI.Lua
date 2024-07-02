@@ -1,9 +1,3 @@
-local CoreGui = game:GetService("StarterGui")
-CoreGui:SetCore("SendNotification", {
-    Title = "UI By：小凌",
-    Text = "别偷我UI😡",
-    Duration = 5,
-
 local UserInputService = game:GetService("UserInputService")
 local TweenService = game:GetService("TweenService")
 local RunService = game:GetService("RunService")
